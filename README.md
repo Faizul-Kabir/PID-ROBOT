@@ -1,5 +1,7 @@
 # PID-ROBOT
+![Screenshot (1)](https://github.com/Faizul-Kabir/PID-ROBOT/assets/142076035/39e25f06-4797-4d14-b570-ba1d5b4796b7)
 
-![Screenshot (1)](https://github.com/Faizul-Kabir/PID-ROBOT/assets/142076035/e7f149f0-b37c-46c8-bb45-00c6e94eb166)
+A Robot with PID follows a track and is created using Webots.
 
-A Robot created using Webots software where the Robot is implemented with PID and follows the track.
+
+
